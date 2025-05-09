@@ -311,12 +311,24 @@ body {
   font-size: 5rem;
   color: #a4b465;
   text-transform: capitalize;
+  background-color: #392421;
 }
 
 .the-letter-e {
   font-family: "Comic Sans", sans-serif;
   font-weight: 800;
   font-size: 4rem;
-  color: #1b56fd;
+  color: #54007e;
+  background-color: #f8d063;
   text-transform: lowercase;
+}
+
+.the-letter-g {
+  font-family: "Catull", serif;
+  color: #2323fd;
+  font-size: 5rem;
+  font-weight: bold;
+  background-color: white;
+  text-transform: lowercase;
+  text-shadow: 1px 1px 2px rgb(1, 1, 63);
 }
