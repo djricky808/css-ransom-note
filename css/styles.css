@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Piazzolla&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Ceviche+One&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Raleway+Dots&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Cal+Sans&family=Creepster&family=Great+Vibes&family=Monoton&family=Permanent+Marker&family=Press+Start+2P&family=Rubik+Mono+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Cal+Sans&family=Creepster&family=Great+Vibes&family=Monoton&family=Permanent+Marker&family=Pirata+One&family=Press+Start+2P&family=Rubik+Mono+One&display=swap");
 * {
   padding: 0;
   margin: 0;
@@ -349,4 +349,20 @@ body {
   background-color: #131417;
   font-size: 4rem;
   text-transform: capitalize;
+}
+
+.the-letter-r {
+  background-color: #ebe4ce;
+  color: #110301;
+  font-family: "Pirata One", system-ui;
+  font-size: 5rem;
+  font-weight: 400;
+}
+
+.the-letter-t {
+  font-family: "Rubik Mono One", monospace;
+  font-size: 6rem;
+  text-transform: capitalize;
+  background-color: #3d0155;
+  color: rgb(229, 170, 20);
 }
