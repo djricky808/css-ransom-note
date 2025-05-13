@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Piazzolla&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Ceviche+One&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Raleway+Dots&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Cal+Sans&family=Creepster&family=Great+Vibes&family=Monoton&family=Permanent+Marker&family=Pirata+One&family=Press+Start+2P&family=Rubik+Mono+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Black+Ops+One&family=Cal+Sans&family=Creepster&family=Great+Vibes&family=Monoton&family=Permanent+Marker&family=Pirata+One&family=Press+Start+2P&family=Rubik+Mono+One&display=swap");
 * {
   padding: 0;
   margin: 0;
@@ -365,4 +365,30 @@ body {
   text-transform: capitalize;
   background-color: #3d0155;
   color: rgb(229, 170, 20);
+}
+
+.the-letter-a {
+  font-family: "Great Vibes", cursive;
+  font-size: 7rem;
+  font-weight: bold;
+  color: #027a24;
+  background-color: rgb(217, 224, 0);
+}
+
+.the-letter-i {
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 4rem;
+  font-weight: bold;
+  background-color: white;
+  color: black;
+}
+
+.the-letter-k,
+.developerVLetter,
+.developerVLetter {
+  background-color: black;
+  color: red;
+  font-family: "Creepster", system-ui;
+  font-size: 6rem;
+  font-weight: 600;
 }
