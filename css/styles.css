@@ -53,7 +53,7 @@ body {
 
 /* Sample CSS for the WHY word */
 
-.whyWLetter {
+/* .whyWLetter {
   font-size: 72px;
   font-weight: bold;
   color: aqua;
@@ -78,7 +78,7 @@ body {
   text-decoration: none;
   text-transform: uppercase;
   font-family: "Raleway Dots", sans-serif;
-}
+} */
 
 /* DID word */
 
@@ -385,10 +385,88 @@ body {
 
 .the-letter-k,
 .developerVLetter,
-.developerVLetter {
-  background-color: black;
-  color: red;
+.improveVLetter {
   font-family: "Creepster", system-ui;
   font-size: 6rem;
   font-weight: 600;
+}
+
+.the-letter-k {
+  background-color: black;
+  color: red;
+}
+
+.developerVLetter,
+.improveVLetter {
+  background-color: red;
+  color: black;
+}
+
+.the-letter-u,
+.the-letter-n,
+.improveMLetter {
+  font-family: "Black Ops One", system-ui;
+  font-size: 5rem;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+.the-letter-u {
+  background-color: black;
+  color: orangered;
+}
+
+.the-letter-n {
+  color: gray;
+  background-color: blue;
+}
+
+.improveMLetter {
+  color: black;
+  background-color: goldenrod;
+}
+
+.the-letter-l {
+  font-family: "Monoton", sans-serif;
+  text-decoration: underline;
+  text-transform: capitalize;
+  color: rgb(150, 0, 97);
+  background-color: rgb(0, 242, 255);
+  font-size: 6rem;
+}
+
+.the-letter-w {
+  font-family: "Piazolla", sans-serif;
+  font-weight: 800;
+  font-size: 5rem;
+  color: rgb(0, 162, 255);
+  background-color: rgb(0, 109, 13);
+  text-decoration: underline;
+}
+
+.the-letter-h {
+  font-family: "Ceviche One", sans-serif;
+  color: rgb(255, 111, 2);
+  background-color: #000064;
+  text-decoration: overline;
+  font-size: 3.5rem;
+}
+
+.the-letter-y {
+  font-size: 60px;
+  font-weight: normal;
+  color: coral;
+  background-color: #131417;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: "Raleway Dots", sans-serif;
+}
+
+.the-letter-p {
+  font-family: "Pirata One", system-ui;
+  font-size: 5rem;
+  color: rgb(211, 211, 0);
+  background-color: #a09c7a;
+  font-weight: bold;
+  text-decoration: dotted;
+  text-transform: capitalize;
 }
