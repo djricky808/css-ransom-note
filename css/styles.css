@@ -470,3 +470,19 @@ body {
   text-decoration: dotted;
   text-transform: capitalize;
 }
+
+.becauseBLetter,
+.becauseCLetter {
+  font-family: "Bebas Neue", sans-serif;
+  font-size: 6rem;
+  font-weight: 400;
+  background-color: orangered;
+}
+
+.becauseBLetter {
+  color: black;
+}
+
+.becauseCLetter {
+  color: white;
+}
