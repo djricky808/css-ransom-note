@@ -307,9 +307,7 @@ body {
 
 .the-letter-d {
   font-family: "Cal Sans", sans-serif;
-  font-size: 72px;
   color: #a4b465;
-  text-transform: capitalize;
   background-color: #392421;
 }
 
@@ -352,6 +350,10 @@ body {
   font-size: 96px;
 }
 
+.capitalize {
+  text-transform: uppercase;
+}
+
 .the-letter-e {
   font-family: "Black Ops One", system-ui;
   font-weight: 700;
@@ -384,7 +386,6 @@ body {
   text-decoration: line-through;
   color: rgb(0, 255, 0);
   background-color: #131417;
-  text-transform: capitalize;
 }
 
 .the-letter-r {
@@ -396,7 +397,6 @@ body {
 
 .the-letter-t {
   font-family: "Rubik Mono One", monospace;
-  text-transform: capitalize;
   background-color: #3d0155;
   color: rgb(229, 170, 20);
 }
@@ -436,7 +436,6 @@ body {
 .improveMLetter {
   font-family: "Black Ops One", system-ui;
   font-weight: 600;
-  text-transform: capitalize;
 }
 .the-letter-u {
   background-color: black;
@@ -456,7 +455,6 @@ body {
 .the-letter-l {
   font-family: "Monoton", sans-serif;
   text-decoration: underline;
-  text-transform: capitalize;
   color: rgb(150, 0, 97);
   background-color: rgb(0, 242, 255);
 }
@@ -481,7 +479,6 @@ body {
   color: coral;
   background-color: #131417;
   text-decoration: none;
-  text-transform: uppercase;
   font-family: "Raleway Dots", sans-serif;
 }
 
@@ -491,7 +488,6 @@ body {
   background-color: #a09c7a;
   font-weight: bold;
   text-decoration: dotted;
-  text-transform: capitalize;
 }
 
 .becauseBLetter,
