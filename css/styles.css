@@ -486,3 +486,19 @@ body {
 .becauseCLetter {
   color: white;
 }
+
+.the-letter-s {
+  font-family: "Permanent Marker", cursive;
+  color: rgb(73, 47, 14);
+  background-color: gold;
+  font-size: 4rem;
+  text-decoration: wavy;
+  font-weight: 400;
+}
+
+.punctuation {
+  font-family: "Press Start 2P", system-ui;
+  color: blue;
+  background-color: black;
+  font-size: 6rem;
+}
